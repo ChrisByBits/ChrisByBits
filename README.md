@@ -8,10 +8,10 @@
 
 <h3 align="left">💭 About Me:</h3>
 <ul>
-  <li>♨️ Pursuing my Bachelor of Software Engineering at UPC</li>
+  <li>♨️ Pursuing my Bachelor of Software Engineering at UPC.</li>
   <li>🌱 Currently learning React.js, Django.</li>
   <li>🤔 Inquiring more about UX/UI.</li>
-  <li>☕ Fun fact: SBUX Barista</li>
+  <li>☕ Fun fact: SBUX Barista.</li>
 </ul>
 
 ---
