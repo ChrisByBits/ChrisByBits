@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="left">💭About Me</h3>
+<h3 align="left">💭 About Me:</h3>
 <ul>
   <li>♨️ I’m currently pursuing my Bachelor of Software Engineering at UPC</li>
   <li>🌱 I’m currently learning React.js, Django.</li>
