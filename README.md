@@ -14,6 +14,7 @@
   <li>☕ Fun fact: SBUX Barista</li>
 </ul>
 
+---
 
 <h3 align="left">⚙ Languages and Tools:</h3>
 <div align="center">
@@ -30,7 +31,7 @@
 
 ---
 
-### 📊 My Stats :
+<h3 align="left">📊 My Stats:</h3> 
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisByBits&theme=radical&border_radius=20&card_width=600)](https://git.io/streak-stats)
