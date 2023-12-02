@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there 👋, I'm Christopher 👨‍💻</h1>
-  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="600" border-radius="20"/>
+  <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif" width="600"  />
   <h4>Passionate about exploring the frontiers of technology and excited by the opportunities that emerging innovations offer us.</h4>
 </div>
 
