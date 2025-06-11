@@ -8,10 +8,10 @@
 
 <h3 align="left">💭 About Me:</h3>
 <ul>
-  <li>♨️ Pursuing my Bachelor of Software Engineering at UPC.</li>
-  <li>🌱 Currently learning PHP.</li>
-  <li>🤔 Inquiring more about UX/UI.</li>
-  <li>☕ Fun fact: SBUX Barista.</li>
+  <li>🎓 Software Engineering student at UPC, consistently ranked in the top 10% of my class.</li>
+  <li>💻 Passionate about full-stack development, with experience building responsive web interfaces, backend services, and mobile applications.</li>
+  <li>🚀 Currently refining my skills with modern frameworks like Next.js and advancing backend development with Spring Boot.</li>
+  <li>🎯 Focused on writing clean, maintainable code and applying solid software architecture principles across projects.</li>
 </ul>
 
 ---
